@@ -1,0 +1,19 @@
+{
+    "mkzin": {
+        "ID": "mkzin",
+        "MessageID": "1328400405800943666",
+        "ChannelID": "1326625994483961927",
+        "embedconfig": {
+            "cupom": true
+        },
+        "settings": {
+            "price": 10,
+            "name": "Não configurado ainda...",
+            "desc": "Não configurado ainda...",
+            "estoque": [
+                "123",
+                "123"
+            ]
+        }
+    }
+}

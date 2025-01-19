@@ -1,0 +1,35 @@
+{
+    "ConfigGeral": {
+        "Status": "ON",
+        "ColorEmbed": "#2b2d31",
+        "TermosCompra": "Não definido",
+        "MercadoPagoConfig": {
+            "PixToggle": "OFF",
+            "SiteToggle": "OFF",
+            "TimePagament": "20",
+            "TokenAcessMP": ""
+        },
+        "SaldoConfig": {
+            "SaldoStatus": "ON",
+            "Bonus": "10",
+            "ValorMinimo": "10"
+        },
+        "SemiAutoConfig": {
+            "SemiAutoStatus": "ON",
+            "typepix": "",
+            "pix": "",
+            "qrcode": ""
+        },
+        "CashBack": {
+            "ToggleCashBack": "OFF",
+            "Porcentagem": "10"
+        },
+        "StatusBot": {
+            "typestatus": null,
+            "ativistatus": null,
+            "textstatus": null,
+            "urlstatus": null
+        },
+        "perms": []
+    }
+}

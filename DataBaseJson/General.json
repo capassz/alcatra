@@ -1,0 +1,45 @@
+{
+    "ConfigGeral": {
+        "Status": "ON",
+        "ColorEmbed": "#2b2d31",
+        "TermosCompra": "Não definido",
+        "MercadoPagoConfig": {
+            "PixToggle": "ON",
+            "SiteToggle": "ON",
+            "TimePagament": "10",
+            "TokenAcessMP": "APP_USR-1374864994922796-082614-1cbfd8222f89dc81132857070a64aefd-465201710",
+            "TokenAcessIdade": "maior"
+        },
+        "SaldoConfig": {
+            "SaldoStatus": "ON",
+            "Bonus": "10",
+            "ValorMinimo": "10"
+        },
+        "SemiAutoConfig": {
+            "SemiAutoStatus": "OFF",
+            "typepix": "",
+            "pix": "",
+            "qrcode": ""
+        },
+        "CashBack": {
+            "ToggleCashBack": "OFF",
+            "Porcentagem": "10"
+        },
+        "StatusBot": {
+            "typestatus": null,
+            "ativistatus": null,
+            "textstatus": null,
+            "urlstatus": null
+        },
+        "perms": [],
+        "ChannelsConfig": {
+            "ChannelLogPublica": "1326626037291024475",
+            "ChannelCategoriaShop": "1325150822933205133",
+            "CargoCliente": "1325159140909256805",
+            "ChannelLogAdm": "1325150973697720410",
+            "ChannelSugestao": "1326626037291024475",
+            "ChannelAvaliar": "1326625994483961927",
+            "ChangeChannelMod": "1326625894546149468"
+        }
+    }
+}

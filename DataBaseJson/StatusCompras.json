@@ -1,0 +1,46 @@
+{
+    "6078194": {
+        "Status": "Entregue",
+        "user": "968657593906102383",
+        "GuildServerID": "1292958547927236609",
+        "ID": "carrinho_968657593906102383",
+        "IdCompra": "6078194",
+        "Metodo": "Saldo",
+        "Data": "2025-01-07T18:01:39.984Z",
+        "canal": "1294090764195725423",
+        "msg": "1326249405577298002",
+        "messageinfoprodutos": "Não configurado ainda... x1",
+        "ProdutosComprados": "Não configurado ainda... - 1\n",
+        "valortotal": "10.00",
+        "IDMessageLogs": "1326249414079152251",
+        "IDChannelLogs": "1294090764195725423",
+        "produtosentregue": "📦 | Entrega do Produto: mkzin - 1/1\n3213\n\n"
+    },
+    "1328398601415557171": {
+        "type": "SemiAutomatico",
+        "canal": "1326626037291024475",
+        "msg": "1328398630247202939",
+        "uu2": "3623113"
+    },
+    "1328398903263100970": {
+        "type": "SemiAutomatico",
+        "canal": "1326626037291024475",
+        "msg": "1328398925144522842",
+        "uu2": "7178495"
+    },
+    "1328399182884503625": {
+        "type": "SemiAutomatico",
+        "canal": "1326626037291024475",
+        "msg": "1328399210327965867",
+        "uu2": "8951311"
+    },
+    "99204682218": {
+        "Status": "Cancelado",
+        "user": "968657593906102383",
+        "GuildServerID": "1323447948746555533",
+        "ID": "carrinho_968657593906102383",
+        "canal": "1325150973697720410",
+        "msg": "1328400461643907142",
+        "type": "pix"
+    }
+}
